@@ -1,5 +1,5 @@
 # CPSC_4800_Spring_2023
-This repo is for testing purpose
+This repo is for testing purposes
 
 # Description
 
@@ -10,3 +10,5 @@ This repo is for testing purpose
 # Instalation Guide
 
 # Data
+
+# One more line for testing purposes
